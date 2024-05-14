@@ -23,8 +23,8 @@ Ensure you have these essentials in your beach bag:
 1. **Grab your gear**:
 
 ```bash
-   git clone https://github.com/yourusername/GoLiquify.git
-   cd GoLiquify
+git clone https://github.com/TFMV/GoLiquify.git
+cd GoLiquify
 ```
 
 ### 🌅 How to Use
