@@ -2,7 +2,7 @@
 
 Welcome to **GoLiquify**, where your database migrations surf the high tides of change without wiping out! Strap on your board shorts and let's dive into the world of effortless schema migrations powered by the robustness of Go and the versatility of Liquibase.
 
-![GoLiquify](GoLiquify.webp)
+![GoLiquify](assets/GoLiquify.webp)
 
 ## 🐚 Features
 
@@ -45,3 +45,6 @@ GoLiquify is laid out under the MIT License - feel free to check the LICENSE fil
 
 GoLiquify is provided "as is", without warranty of any kind. Surf at your own risk and always mind the undercurrents. Not responsible for any sunburn or data mishaps!
 
+## Author
+
+Thomas F McGeehan V
